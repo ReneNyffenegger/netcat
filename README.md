@@ -150,3 +150,9 @@ upon this work.  If you add something useful or discover something
 interesting about NT TCP/IP let met know.
 
 Weld Pond <weld/at/l0pht.com>, 2/2/98
+
+## TODO
+
+I believe the source to be based upon version 1.11. Version 1.12 seems to
+come with a `-c` option to send CRLF instead of just CR. So, I or someone
+else should merge 1.11 with 1.12 (found at https://eternallybored.org/misc/netcat/).
