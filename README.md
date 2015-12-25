@@ -1,6 +1,6 @@
 # netcat
 
-retcat for mingw
+netcat for mingw
 
 ## Original README
 
